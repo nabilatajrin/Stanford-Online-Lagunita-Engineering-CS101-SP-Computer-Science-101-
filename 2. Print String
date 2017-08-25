@@ -1,0 +1,9 @@
+// The line below prints one number and one string
+print(6, "hi");
+print("hello", 2, "bye");
+----------------------------
+
+Output:
+######
+6 hi
+hello 2 bye
