@@ -26,10 +26,15 @@ CS101 teaches the essential features of computers with some neat image and code 
 
 ### Code Writing: ###
 
+** 1. First Code Example - Print **
+
 * print is a function -- like a verb in the code
 * Numbers within the parenthesis ( ... ) are passed in to the print function
 * Multiple values separated by commas
 * Syntax the code is not free form
--Syntax of the code is very limited and strict
--A reflection of the inner, mechanical/dumb nature of the computer 
+   *Syntax of the code is very limited and strict
+   *A reflection of the inner, mechanical/dumb nature of the computer 
+   
+** 2. Print String **
+
 
