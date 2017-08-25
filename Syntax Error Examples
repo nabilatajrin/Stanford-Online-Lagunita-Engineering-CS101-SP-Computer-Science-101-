@@ -8,3 +8,72 @@ Output:
 
 a
 Error:prlnt is not defined line:2
+
+----------------------------------------------------------------------------------------------------
+print("a");
+print("b", "b);
+print("c", "c", "c");
+___________________
+
+Output:
+######
+Error:unterminated string literal line:2
+
+---------------------------------------------------------------------------------------------------
+print("a");
+print("b", "b");
+print("c", "c", "c";
+___________________
+
+Output:
+######
+Error:missing ) after argument list line:3
+
+---------------------------------------------------------------------------------------------------
+print("a");
+print("b" "b");
+print("c", "c", "c");
+___________________
+
+Output:
+######
+Error:missing ) after argument list line:2
+
+
+---------------------------------------------------------------------------------------------------
+// This one has two syntax errors
+print("a");
+pront("b", "b");
+print("c", "c", "c";
+___________________
+
+Output:
+######
+Error:missing ) after argument list line:4
+
+---------------------------------------------------------------------------------------------------
+print("a");
+print(, "b");
+print("c", "c", "c");
+___________________
+
+Output:
+######
+Error:expected expression, got ',' line:2
+
+---------------------------------------------------------------------------------------------------
+Example Problem
+
+Change the code below so, when run, it produces the following output:
+
+1 2 buckle
+3 4 knock
+-----------
+print(1, 2,"buckle");
+print(3,4, "knock");
+___________________
+
+Output:
+######
+1 2 buckle
+3 4 knock
