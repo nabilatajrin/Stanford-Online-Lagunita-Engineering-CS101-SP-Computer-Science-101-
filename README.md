@@ -37,4 +37,3 @@ CS101 teaches the essential features of computers with some neat image and code 
    
 **2. Print String**
 
-
