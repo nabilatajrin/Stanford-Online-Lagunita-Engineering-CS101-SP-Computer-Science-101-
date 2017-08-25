@@ -1,0 +1,10 @@
+print("a");
+prlnt("b", "b");
+print("c", "c", "c");
+___________________
+
+Output:
+######
+
+a
+Error:prlnt is not defined line:2
