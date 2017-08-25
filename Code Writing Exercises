@@ -1,0 +1,34 @@
+Q1. Change the "print" code below so it produces the following output when run:
+
+1 2 hello
+_____________
+Program:
+######
+print(1,2, "hello");
+--
+Output:
+######
+
+print(1, "hi");
+1 2 hello
+
+__________________________________________________________________________________________________________________________
+Q2. Change the "print" code below so it produces the following output when run:
+
+1
+1 2
+1 2 3
+_______
+Program:
+######
+print(1);
+print(1,2);
+print(1,2,3);
+
+Output:
+######
+
+print(1);
+1
+1 2
+1 2 3
