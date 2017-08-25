@@ -20,10 +20,8 @@ CS101 teaches the essential features of computers with some neat image and code 
 * Analog vs. digital
 * Digital media, images, sounds, video, compression
 * CS101 coding: Javascript + some CS101 specific features
-    
-    
-*Not the whole Javascript language, just bits
-*Just enough code to experiment with key ideas
+    * Not the whole Javascript language, just bits
+    * Just enough code to experiment with key ideas
 
 
 ### Code Writing: ###
