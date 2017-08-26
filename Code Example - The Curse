@@ -1,0 +1,7 @@
+x = "Alice";
+print("I had a crush on ", x);
+_______________________________
+
+Output:
+
+I had a crush on Alice
