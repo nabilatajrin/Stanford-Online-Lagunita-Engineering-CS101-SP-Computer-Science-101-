@@ -1,0 +1,10 @@
+x = 7;
+print(x);
+print("lucky", x);
+print("x is", x);
+________________________________________
+Output:
+
+7
+lucky 7
+x is 7
