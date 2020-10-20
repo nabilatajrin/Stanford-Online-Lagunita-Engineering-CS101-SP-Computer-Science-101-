@@ -1,6 +1,6 @@
 # Stanford-Online-Lagunita-Engineering-CS101-SP-Computer-Science-101-
 
-CS101 teaches the essential features of computers with some neat image and code exercises. CS101 is geared for people with zero prior computer experience apart from using a browser.
+This repository contains some test programs of tanford-online-lagunita-engineering-cs101-sp-computer-science-101. CS101 teaches the essential features of computers with some neat image and code exercises. CS101 is geared for people with zero prior computer experience apart from using a browser.
 
 [Stanfor Online Lagunita Engineering: CS101-SP Computer Science 101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/d1714dd9a6f84dd683be1eb737b6dbfe/d47eb90418a64f3b8c7a8e0467f0db45/1)
 
