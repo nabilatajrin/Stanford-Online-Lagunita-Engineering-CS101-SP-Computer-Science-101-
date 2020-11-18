@@ -5,7 +5,7 @@ This repository contains some test programs of tanford-online-lagunita-engineeri
 [Stanfor Online Lagunita Engineering: CS101-SP Computer Science 101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/d1714dd9a6f84dd683be1eb737b6dbfe/d47eb90418a64f3b8c7a8e0467f0db45/1)
 
 
-### Topics: ###
+Topics:
 
 * The nature of computers and code, what they can and cannot do
 * How computer hardware works: chips, cpu, memory, disk
